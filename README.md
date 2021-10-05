@@ -1,1 +1,2 @@
-# Collision-library
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
